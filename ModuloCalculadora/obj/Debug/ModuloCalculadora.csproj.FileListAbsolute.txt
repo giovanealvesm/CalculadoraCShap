@@ -1,0 +1,6 @@
+C:\Users\giova\source\repos\ItroduçãoAoCSharpUmaAbordagemPraticaUdemy\ModuloCalculadora\bin\Debug\ModuloCalculadora.dll
+C:\Users\giova\source\repos\ItroduçãoAoCSharpUmaAbordagemPraticaUdemy\ModuloCalculadora\bin\Debug\ModuloCalculadora.pdb
+C:\Users\giova\source\repos\ItroduçãoAoCSharpUmaAbordagemPraticaUdemy\ModuloCalculadora\obj\Debug\ModuloCalculadora.csproj.AssemblyReference.cache
+C:\Users\giova\source\repos\ItroduçãoAoCSharpUmaAbordagemPraticaUdemy\ModuloCalculadora\obj\Debug\ModuloCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\giova\source\repos\ItroduçãoAoCSharpUmaAbordagemPraticaUdemy\ModuloCalculadora\obj\Debug\ModuloCalculadora.dll
+C:\Users\giova\source\repos\ItroduçãoAoCSharpUmaAbordagemPraticaUdemy\ModuloCalculadora\obj\Debug\ModuloCalculadora.pdb
